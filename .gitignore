@@ -1,0 +1,11 @@
+.vscode/
+input/
+*.bin
+*.csv
+*.jpg
+model_state_dict.pt
+__pycache__
+Dockerfile
+LICENSE.md
+main.py
+.vscode
